@@ -751,7 +751,7 @@ function library:Introduction()
     OdysseyLogo.Position = UDim2.new(0.5, 0, 0.5, 0)
     OdysseyLogo.Size = UDim2.new(0, 448, 0, 150)
     OdysseyLogo.Visible = true
-    OdysseyLogo.Image = "rbxassetid://135498159939321"
+    OdysseyLogo.Image = ""
     OdysseyLogo.ImageColor3 = Color3.fromRGB(159, 115, 255)
     OdysseyLogo.ImageTransparency = 1
     
@@ -763,7 +763,7 @@ function library:Introduction()
     hashLogo.Position = UDim2.new(0.5, 0, 0.5, 0)
     hashLogo.Size = UDim2.new(0, 150, 0, 150)
     hashLogo.Visible = true
-    hashLogo.Image = ""
+    hashLogo.Image = "rbxassetid://135498159939321"
     hashLogo.ImageColor3 = Color3.fromRGB(159, 115, 255)
     hashLogo.ImageTransparency = 1
     
